@@ -2,7 +2,7 @@
 
 # Olá. Seja bem vindo ao meu perfil, sou a Paloma Dantas!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Técnica+em+Informática+para+Internet;Desenvolvedora+em+evolução;Apaixonada+por+tecnologia+e+inovação" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Engenheira+de+Software+em+formação;Técnica+em+Informática+para+Internet;Desenvolvedora+em+evolução;Apaixonada+por+tecnologia+e+inovação" />
 
 </div>
 

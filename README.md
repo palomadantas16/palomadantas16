@@ -13,10 +13,8 @@
 • Técnica em Informática para Internet  
 • Apaixonada por tecnologia, desenvolvimento e criação de soluções  
 • Estudando desenvolvimento web, banco de dados, APIs e inglês  
-• Interesse em front-end, back-end e Inteligência Artificial  
+• Interesse em back-end e Inteligência Artificial  
 • Buscando evolução constante na área da tecnologia  
-
-Além da programação, também gosto de academia, música, séries, filmes e criação de conteúdo ✨
 
 ---
 
@@ -25,28 +23,6 @@ Além da programação, também gosto de academia, música, séries, filmes e cr
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,git,github,vscode,python" />
-
-</div>
-
----
-
-## 📈 Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
-## Sequência de contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=palomadantas16&theme=tokyonight&border_radius=10" />
 
 </div>
 

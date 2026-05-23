@@ -10,7 +10,7 @@
 
 ## Sobre mim ✨
 
-• Estudante de Engenharia de Software na FIAP
+• Estudante de Engenharia de Software na FIAP 
 • Técnica em Informática para Internet  
 • Apaixonada por tecnologia, desenvolvimento e criação de soluções  
 • Estudando desenvolvimento web, banco de dados, APIs e inglês  

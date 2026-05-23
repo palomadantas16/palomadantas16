@@ -8,7 +8,7 @@
 
 ---
 
-## Sobre mim
+## Sobre mim ✨
 
 • Técnica em Informática para Internet  
 • Apaixonada por tecnologia, desenvolvimento e criação de soluções  
@@ -46,22 +46,12 @@ _"Tecnologia é transformar ideias em soluções."_
 </a>
 
 <a href="mailto:paloma.carmo@yahoo.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Yahoo-8A2BE2?style=for-the-badge&logo=yahoo&logoColor=white">
 </a>
 
 <a href="https://github.com/palomadantas16">
 <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-</div>
-
----
-
-## Contribuições
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 

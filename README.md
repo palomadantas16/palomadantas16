@@ -10,10 +10,10 @@
 
 ## Sobre mim ✨
 
-• Técnica em Informática para Internet
-• Estudante de Engenharia de Software na FIAP
-• Apaixonada por tecnologia, desenvolvimento e criação de soluções
-• Estudando desenvolvimento web, banco de dados, APIs e inglês
+• Estudante de Engenharia de Software na FIAP <br>
+• Técnica em Informática para Internet <br>
+• Apaixonada por tecnologia, desenvolvimento e criação de soluções <br>
+• Estudando desenvolvimento web, banco de dados, APIs e inglês <br>
 • Buscando evolução constante na área da tecnologia
 
 ---

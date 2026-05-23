@@ -14,7 +14,6 @@
 • Técnica em Informática para Internet  
 • Apaixonada por tecnologia, desenvolvimento e criação de soluções  
 • Estudando desenvolvimento web, banco de dados, APIs e inglês  
-• Interesse em back-end e Inteligência Artificial  
 • Buscando evolução constante na área da tecnologia  
 
 ---
